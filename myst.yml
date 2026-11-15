@@ -20,7 +20,7 @@ site:
     hide_footer_links: true
     # favicon: favicon.ico
     logo: content/other/site_logo.png
-    logo_text: "Kevin ROCHAT"
+    logo_text: "Kevin ROCHA"
   nav: []
   parts: 
     footer: []
